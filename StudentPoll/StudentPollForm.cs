@@ -1,5 +1,4 @@
 ﻿// Thad Swint
-// Ex. 17.8: StudentPoll.cs
 // Allow student to take a survey
 // and view the results in a TextBox
 using System;
